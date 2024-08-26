@@ -1,0 +1,69 @@
+[
+    {
+        "name": "PaScaL_TDM",
+        "title": "PaScaL_TDM",
+        "description": [
+            "고정밀 해석으로 유체-고체 상호작용(FSI) 해석자와 연계되어 관련 연구에 활용 가능",
+            "수학 방정식에 많이 사용되는 Laplace, Helmhotlz방정식으로 확장이 가능"
+        ],
+        "repository": "",
+        "documentation": ""
+    },
+    {
+        "name": "DDM_MFS",
+        "title": "DDM_MFS",
+        "description": [
+            "유체해석 분야에서 기존의 계산 자원 한계로 진행하지 못하였던 연구 진행",
+            "난류 구조 해석(DNS 등), 난류 열전달에 대한 물리적 분석 등",
+            "고성능컴퓨팅 자원의 효율적 사용으로 유체 해석 분야의 실시간 해석이 가능",
+            "UAM 등의 운용에 걸맞는 초고해상도 바람길 해석자의 운영이 가능"
+        ],
+        "repository": "",
+        "documentation": ""
+    },
+    {
+        "name": "PaScaL_Poisson",
+        "title": "PaScaL_Poisson",
+        "description": [
+            "제품 생산의 기획 단계부터 사전 모의실험을 통해 연구 개발 비용 절감 및 제품 개발 기간 단축 가능",
+            "전자파 해석이 필요한 다양한 무기체계 적용, 민간분야 확대로 국내 전파 산업에 활용 가능",
+            "X-band 주파 영역대 레이더를 이용한 탐지 등에 활용 가능"
+        ],
+        "repository": "",
+        "documentation": ""
+    },
+    {
+        "name": "UCFD_SPARSE",
+        "title": "UCFD_SPARSE",
+        "description": [
+            "유체해석에 필수적인 TDMA 해석자로 정밀한 경계층 시뮬레이션의 해석 시간 단축",
+            "국내 계층 연구 활성화 및난류로의 천이 조절과 마찰 저항 감소 기술 개발 가능",
+            "고성능 비행체 설계 및 제어 등에 적용, 연료 효율 및 비행 성능 향상"
+        ],
+        "repository": "",
+        "documentation": ""
+    },
+    {
+        "name": "PDDPTT_TDMA",
+        "title": "PDDPTT_TDMA",
+        "description": [
+            "다양한 비행 조건에서 정밀한 공력 특성 분석 가능",
+            "차세대 비행체 및 우주 발사체 개발 실험을 시뮬레이션으로 대체, 개발 비용과 시간 절감 가능",
+            "설계 정밀도를 높이고 탐색 범위를 넓혀 차세대 고성능 비행체 및 우주 발사체 개발에 적용 가능",
+            "기존에 계산 시간과 비용의 제한으로 분석하기 어려웠던 유동의 정밀 분석 가능",
+            "비정상 난류 유동, 화학 반응을 수반하는 극초음속 평형/비평형 유동 등"
+        ],
+        "repository": "",
+        "documentation": ""
+    },
+    {
+        "name": "OCTREEE_POISSON",
+        "title": "OCTREEE_POISSON",
+        "description": [
+            "기상, 해양 등과 관련된 대부분의 다중 스케일 문제를 효율적으로 분석 가능",
+            "다중 스케일의 대규모 문제 해결의 초고속 슈퍼컴퓨터에 사용 가능한 라이브러리를 제공하여 국내 과학기술/산업경쟁력 제고"
+        ],
+        "repository": "",
+        "documentation": ""
+    }
+]

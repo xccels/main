@@ -1,0 +1,22 @@
+[
+    {
+        "title": "ABOUT",
+        "key": "about"
+    },
+    {
+        "title": "TEAMS",
+        "key": "teams"
+    },
+    {
+        "title": "OUTCOMES",
+        "key": "outcomes"
+    },
+    {
+        "title": "MODULES",
+        "key": "modules"
+    },
+    {
+        "title": "EVENTS",
+        "key": "events"
+    }
+]
