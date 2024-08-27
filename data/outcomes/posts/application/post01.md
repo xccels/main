@@ -1,9 +1,12 @@
 
-# In-house CFD 코드의 multi node-GPU 병렬화 및 반도체 Fab 내부 유동시뮬레이션 수행
+# 반도체 Fab 내부 유동시뮬레이션
+## In-house CFD 코드의 multi node-GPU 병렬화  
 
-> 활용 모듈 : PaScaL_TDMA
+```
+활용 모듈 : PaScaL_TDMA
 활용 기관 : 삼성전자 SAIT
 활용 담당 : 김기하 책임연구원
+```
 
 *****
 
@@ -25,8 +28,6 @@
 
 ## 관련 성과
 + 개발내용으로 SC24 conference paper 제출. (심사중) GPU-Enabled LICA Fluid Dynamic Solver for Large-Scale Semiconductor Fabrication Plant Flow Simulation. 
-
-*****
 
 ## 활용 컴퓨터 시스템
 ### 사용 시스템
