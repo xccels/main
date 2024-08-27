@@ -1,6 +1,6 @@
 
-# 고 레이놀즈수 난류 파이프 유동 직접수치모사
-## In-house CFD 코드에 PaScaL_TDMA 적용
+# 난류 파이프 유동 DNS
+## In-house CFD 코드에 PaScaL_TDMA 적용 및 고 레이놀즈 수 난류 파이프 유동 직접수치모사 수행
 
 ```
 활용 모듈 : PaScaL_TDMA

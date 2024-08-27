@@ -1,6 +1,6 @@
 
-# 난류 Couette 유동 시뮬레이션 
-## In-house CFD 코드에 PaScaL_TDMA 적용
+# 난류 Couette 유동 해석 
+## In-house CFD 코드에 PaScaL_TDMA 적용 및 난류 Couette 유동 시뮬레이션 
 
 ```
 활용 모듈 : PaScaL_TDMA

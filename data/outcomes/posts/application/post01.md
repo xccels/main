@@ -1,6 +1,6 @@
 
-# 반도체 Fab 내부 유동시뮬레이션
-## In-house CFD 코드의 multi-node GPU 병렬화  
+# 반도체 Fab 유동 해석 
+## In-house CFD 코드의 multi node GPU 병렬화 및 반도체 Fab 내부 유동시뮬레이션 수행
 
 ```
 활용 모듈 : PaScaL_TDMA

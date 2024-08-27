@@ -53,8 +53,8 @@
             "기존에 계산 시간과 비용의 제한으로 분석하기 어려웠던 유동의 정밀 분석 가능",
             "비정상 난류 유동, 화학 반응을 수반하는 극초음속 평형/비평형 유동 등"
         ],
-        "repository": "https://xccels.github.io/TDMA_PDD/",
-        "documentation": "https://github.com/xccels/TDMA_PDD"
+        "repository": "https://github.com/xccels/TDMA_PDD",
+        "documentation": "https://xccels.github.io/TDMA_PDD/"
     },
     {
         "name": "PaScaL_Poisson_GMG",

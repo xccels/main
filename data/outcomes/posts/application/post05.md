@@ -1,6 +1,6 @@
 
-# 천이 채널 유동에서의 와류 캐스케이드 분석
-## 유체 솔버에 포함된 ADI scheme 및 Poisson solver에 각각 TDMA_PDD, TDMA_PPT 적용 
+# 와류 캐스케이드 분석
+## 유체 솔버에 TDMA_PDD, TDMA_PPT 적용 및 천이 채널 유동에서의 와류 캐스케이드 분석
 
 ```
 활용 모듈 : TDMA_PDD
