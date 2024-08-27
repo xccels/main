@@ -8,12 +8,12 @@
         "key": "teams"
     },
     {
-        "title": "OUTCOMES",
-        "key": "outcomes"
-    },
-    {
         "title": "MODULES",
         "key": "modules"
+    },
+    {
+        "title": "OUTCOMES",
+        "key": "outcomes"
     },
     {
         "title": "EVENTS",
