@@ -1,6 +1,6 @@
 # Multi-GPU-based real-time large-eddy simulations for urban microclimate
 
-<!-- author: Mingyu Yang, Geunwoo Oh, Tiantian Xu, Jungwoo Kim, Ji-Hoon Kang, Jung-Il Choi-->
+<!-- Mingyu Yang, Geunwoo Oh, Tiantian Xu, Jungwoo Kim, Ji-Hoon Kang, Jung-Il Choi-->
 
 Mingyu Yang<sup>a</sup>, Geunwoo Oh<sup>a</sup>, Tiantian Xu<sup>a</sup>, Jungwoo Kim<sup>a</sup>, Ji-Hoon Kang<sup>b</sup>, Jung-Il Choi<sup>a,*</sup>
 
