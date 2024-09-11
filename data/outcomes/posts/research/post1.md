@@ -2,7 +2,7 @@
 
 <!-- author: Mingyu Yang, Geunwoo Oh, Tiantian Xu, Jungwoo Kim, Ji-Hoon Kang, Jung-Il Choi-->
 
-Mingyu Yang^a</sup>, Geunwoo Oh<sup>a</sup>, Tiantian Xu<sup>a</sup>, Jungwoo Kim<sup>a</sup>, Ji-Hoon Kang<sup>b</sup>, Jung-Il Choi<sup>a,*</sup>
+Mingyu Yang<sup>a</sup>, Geunwoo Oh<sup>a</sup>, Tiantian Xu<sup>a</sup>, Jungwoo Kim<sup>a</sup>, Ji-Hoon Kang<sup>b</sup>, Jung-Il Choi<sup>a,*</sup>
 
 <sup>a</sup> School of Mathematics and Computing (Computational Science and Engineering), Yonsei University, Seoul 03722, Republic of Korea
 <sup>b</sup> Division of National Supercomputing, Korea Institute of Science and Technology Information, Daejeon 34141, Republic of Korea
