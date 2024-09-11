@@ -1,10 +1,13 @@
 [
     {
         "value": "application",
-        "label": "활용성과"
+        "label": "활용성과",
+        "view": "grid"
     },
     {
         "value": "research",
-        "label": "연구성과"
+        "label": "연구성과",
+        "view": "research",
+        "postsPerPage": 3
     }
 ]

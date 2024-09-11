@@ -4,6 +4,7 @@
 - application : 활용성과 관련된 내용
 - research : 연구성과와 관련된 내용
 > 해당 범주는 outcomes/categories.json에 정의되어 있습니다.
+> view 는 두가지로 grid와 research가 있습니다.
 
 ## 파일의 첫 헤딩은 글의 제목으로 사용됩니다.
 - 제목 이하 모든 내용은 콘텐츠로 렌더링됩니다.
@@ -26,3 +27,7 @@
   ]
 }
 ```
+
+## VIEW
+- grid : 썸네일과 제목만 보여줍니다.
+- research : 제목과 저자를 보여줍니다. (저자는 마크다운 파일에 주석으로 입력합니다. ex. <!-- author: author name -->)
