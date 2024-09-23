@@ -1,8 +1,7 @@
 {
     "posts": [
-        "second-post.md",
-        "with-co-author.md",
-        "first-post.md",
-        "third-post.md"
+        "post3.md",
+        "post2.md",
+        "post1.md"
     ]
 }

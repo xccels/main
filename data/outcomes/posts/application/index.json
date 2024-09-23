@@ -1,15 +1,9 @@
 {
     "posts": [
-        "first-post.md",
-        "second-post.md",
-        "some-directory/some-post.md",
-        "first-post copy.md",
-        "first-post copy 2.md",
-        "first-post copy 3.md",
-        "first-post copy 4.md",
-        "first-post copy 5.md",
-        "first-post copy 6.md",
-        "first-post copy 7.md",
-        "first-post copy 8.md"
+        "post01.md",
+        "post02.md",
+        "post03.md",
+        "post04.md",
+        "post05.md"
     ]
 }
