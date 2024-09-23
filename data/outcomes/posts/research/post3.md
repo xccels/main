@@ -11,5 +11,4 @@ In this study, we aim to develop a robust and accurate Riemann solver to resolve
 
 To overcome these complexities, the rotated hybrid concept is applied to the RoeM scheme, to replace the multi-dimensional terms while still resolving the grid-aligned shock instability. In addition, a Mach-number-based weighting function is introduced to distinguish between the flow around the boundary layer and the onset of shock instability. The damping characteristic of the proposed scheme is compared to that of the original RoeM scheme by conducting a linear perturbation analysis. The findings reveal that the proposed scheme effectively controls spurious oscillations across strong shock waves. Numerous test cases are presented to demonstrate the robustness and accuracy of the proposed approach. Notably, the proposed scheme successfully resolves thermal boundary layers and accurately predicts the heat transfer rate around stagnation points in hypersonic flows.
 
-#### Journal of Computational Physics, Vol. 505, 112913 ,2024
-#### https://doi.org/10.1016/j.jcp.2024.112913
+#### Journal of Computational Physics, Vol. 505, 112913, 2024. [[Link]](https://doi.org/10.1016/j.jcp.2024.112913)
