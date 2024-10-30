@@ -6,5 +6,4 @@ Xccels 연구단은 2024년 2월 20일~22일에 개최된 한일 HPC 겨울학�
 
 ![포스터](/data/events/posts/general/images/poster_HPC24.png)
 
-
 ![참가자](/data/events/posts/general/images/participants_HPC24.png)
