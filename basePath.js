@@ -1,2 +1,2 @@
-window.basePath = "";
+window.basePath = "/main";
 
