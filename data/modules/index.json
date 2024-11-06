@@ -29,8 +29,10 @@
             "고정밀 해석으로 유체-고체 상호작용(FSI) 해석자와 연계되어 관련 연구에 활용 가능",
             "수학 방정식에 많이 사용되는 Laplace, Helmhotlz방정식으로 확장이 가능"
         ],
-        "repository": "https://github.com/xccels/PaScaL_POISSON_FFT",
-        "documentation": "https://xccels.github.io/PaScaL_POISSON_FFT/"
+        "repository": ["https://github.com/xccels/PaScaL_POISSON_FFT",
+                       "https://github.com/xccels/PaScaL_POISSON_GMG"],
+        "documentation": ["https://xccels.github.io/PaScaL_POISSON_FFT/",
+                          "https://xccels.github.io/PaScaL_POISSON_GMG/"]
     },
     {
         "name": "UCFD_SPARSE",
