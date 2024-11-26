@@ -10,6 +10,8 @@
 
 *****
 
+![유동](/data/outcomes/posts/application/images/pace.png)
+
 ## 연구 요약 
 
 - ㈜ 페이스 (PACE) 는 포스텍 스핀오프 기업으로, 디지털트윈 구축을 위한 오픈소스 해석 기술과 차수감축모델을 연구함.

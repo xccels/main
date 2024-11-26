@@ -10,6 +10,8 @@
 
 *****
 
+![유동](/data/outcomes/posts/application/images/RIST.png)
+
 ## 연구 요약 
 
 - 소결 대차 Side Wall Crack 원인 규명 및 개선모델 개발” 과제에서 수치 해석 시뮬레이션을 통해 Side Wall Crack이 일어나는 원인 분석 및 해결 방안을 연구함
